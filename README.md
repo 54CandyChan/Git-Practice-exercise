@@ -1,2 +1,3 @@
 # Git-Practice-exercise
-Practice xercise
+Practice exercise
+Hello,this is Candy's repository!
